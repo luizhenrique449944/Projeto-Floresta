@@ -1,0 +1,22 @@
+body {
+    background-image: url('img/fundo-floresta.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+.principal {
+    width: 800px;
+    height: 1900px;
+    padding: 1px 30px;
+    margin: 100px auto;
+    text-align: left;
+    background-color: aliceblue;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+p {
+    max-width: 753px;
+}
